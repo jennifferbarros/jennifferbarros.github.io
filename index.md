@@ -29,4 +29,4 @@ Palestra sobre **Comunicação em Saúde** para o _2º Congresso Brasileiro de E
 
 *   Faro A, et al. COVID-19 e saúde mental: a emergência do cuidado. Seção temática. Contribuições da psicologia no contexto da pandemia da COVID-19. **Estud. psicol**. Campinas, 2020.
 
-![Rodape](https://github.com/jennifferbarros/jennifferbarros.github.io/blob/73c689548bd5a564a5bb0ee84906aff651f6e6c1/files/rodape-jenbarros.png)
+![Rodape](/files/rodape-jenbarros.png)
