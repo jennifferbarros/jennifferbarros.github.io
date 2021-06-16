@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Contatos Pessoais
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+## Contatos Pessoais
 
 *   jenniffer.kelly@gmail.com
 *   [LinkedIn](https://www.linkedin.com/in/jenniffer-kelly-assis-de-barros-7930bb33/)
