@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Contatos
+## Contatos Pessoais
 
-*   **jenniffer.kelly@gmail.com:** 
+*   **jenniffer.kelly@gmail.com** 
 *   [LinkedIn](https://www.linkedin.com/in/jenniffer-kelly-assis-de-barros-7930bb33/)
 
 ## Apresentação
