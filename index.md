@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Palestra sobre **Comunicação em Saúde** - Seminário bla bla bla.
 
 ## Contatos Pessoais
 
