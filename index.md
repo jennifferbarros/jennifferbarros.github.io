@@ -11,7 +11,7 @@ Palestra sobre **Comunicação em Saúde** para o _2º Congresso Brasileiro de E
 
 ## Apresentação
 
-*   <a href="/files/teste.docx" download>Download da apresentação</a>
+*   <a href="/files/jenifferbarros-comunicacaoemsaude-062021.pdf" download>Download da apresentação</a>
 
 ## Referências
 
