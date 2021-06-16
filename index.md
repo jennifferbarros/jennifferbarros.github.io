@@ -21,7 +21,7 @@ Palestra sobre **Comunicação em Saúde** para o _2º Congresso Brasileiro de E
 
 *   Vargas, J. R., Pinto, M. & Marinho, S. (2019). Desafios da comunicação na prática da literacia em saúde. In Z. Pinto-Coelho, S. Marinho & T. Ruão (Eds.), Comunidades, participação e regulação. **VI Jornadas Doutorais, Comunicação & Estudos Culturais** (pp. 84-96). Braga: CECS
 
-*   Arapudo ADIR, Arruda LSNS. Teleatendimento como ferramenta de monitoramento de casos suspeitos e/ou confirmados de COVID-19. **Braz. J. of Develop**., Curitiba, v. 6, n. 8, p.57807- 57815 aug. 2020. 
+*   Araújo ADIR, Arruda LSNS. Teleatendimento como ferramenta de monitoramento de casos suspeitos e/ou confirmados de COVID-19. **Braz. J. of Develop**., Curitiba, v. 6, n. 8, p.57807- 57815 aug. 2020. 
 
 *   Barros MBA, et al. Relato de tristeza/depressão, nervosismo/ansiedade e problemas de sono na população adulta brasileira durante a pandemia de COVID-19. **Epidemiol. Serv. Saude, Brasília, 29(4):e2020427, 2020**
 
